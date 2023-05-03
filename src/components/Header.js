@@ -1,6 +1,4 @@
-import RadioPicker from "./RadioPicker";
 import DatePicker from "./DatePicker";
-import downArrow1 from "../assets/icons/downArrow1.svg";
 import SelectPicker from "./SelectPicker";
 import { states } from "../data/states";
 
