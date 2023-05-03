@@ -4,7 +4,7 @@ const DatePicker = ({ label, ...props }) => {
       <label className="font-medium text-gray-700">{label}</label>
       <input
         type="date"
-        className="bg-indigo-50 p-1 rounded-md mt-1 focus:outline-none w-40 text-right"
+        className="bg-indigo-50 p-1 rounded-md mt-1 focus:outline-none w-32 md:w-40 text-right"
         {...props}
       />
     </div>
